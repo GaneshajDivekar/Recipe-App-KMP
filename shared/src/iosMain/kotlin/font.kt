@@ -7,7 +7,7 @@ import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.resource
 
 /**
- * Created by abdulbasit on 08/10/2023.
+ * Created by ganeshdivekar on 08/10/2023.
  */
 
 private val cache: MutableMap<String, Font> = mutableMapOf()

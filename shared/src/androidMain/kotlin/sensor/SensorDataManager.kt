@@ -11,7 +11,7 @@ import kotlin.math.PI
 
 
 /**
- * Created by abdulbasit on 22/07/2023.
+ * Created by ganeshdivekar on 22/07/2023.
  */
 class SensorDataManager(context: Context) : SensorEventListener {
 

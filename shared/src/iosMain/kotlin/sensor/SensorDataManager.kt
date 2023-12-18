@@ -6,7 +6,7 @@ import platform.Foundation.NSOperationQueue
 
 
 /**
- * Created by abdulbasit on 23/07/2023.
+ * Created by ganeshdivekar on 23/07/2023.
  */
 
 class SensorDataManager() {

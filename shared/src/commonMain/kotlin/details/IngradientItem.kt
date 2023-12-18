@@ -2,7 +2,7 @@ package details
 
 
 /**
- * Created by abdulbasit on 25/06/2023.
+ * Created by ganeshdivekar on 25/06/2023.
  */
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.background

@@ -1,7 +1,7 @@
 import androidx.compose.ui.graphics.Color
 
 /**
- * Created by abdulbasit on 21/06/2023.
+ * Created by ganeshdivekar on 21/06/2023.
  */
 val primary = Color(0xff7AC5C1);
 val primaryLighter = Color(0xffE6F9FF);
